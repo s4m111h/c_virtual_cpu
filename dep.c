@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "dep.h"
 
 int cpu(int x)
