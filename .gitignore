@@ -2,3 +2,5 @@ README.md
 main.o
 dep.o
 app
+.vscode
+dep.h.gch
